@@ -7,6 +7,7 @@ import pandas as pd
 import streamlit as st
 import corpora
 import nltk
+nltk.download('all')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
