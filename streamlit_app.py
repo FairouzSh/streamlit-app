@@ -57,7 +57,7 @@ if __name__ == '__main__':
     st.title('Sarcasm Detection for News Headlines app')
     st.write('A simple app to detect sarcasm')
     st.subheader('Input the News Headline below')
-    sentence = st.text_area('Enter your thread here',height=200)
+    sentence = st.text_area('Enter your text here',height=200)
     predict_btt = st.button('predict')
     model, session = Load_model()
     if predict_btt:
