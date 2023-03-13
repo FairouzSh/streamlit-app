@@ -5,6 +5,7 @@ import pickle
 import numpy as np
 import pandas as pd
 import streamlit as st
+import corpora
 import nltk
 nltk.download('stopwords')
 nltk.download('wordnet')
