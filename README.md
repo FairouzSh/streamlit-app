@@ -14,6 +14,8 @@
 
 * [Git Large File Storage](https://git-lfs.com/) has been used to upload model.h5
 
+Finally, here is our [Sarcasm Detection Tool](https://fairouzsh-streamlit-app-streamlit-app-sejd3l.streamlit.app/)
+
 
 
 
