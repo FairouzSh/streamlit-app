@@ -1,4 +1,4 @@
-beautifulsoup4==4.11.1
+textblob==0.17.0
 gensim==3.0.0
 GitPython==3.1.31
 google-auth==2.16.0
