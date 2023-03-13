@@ -10,7 +10,7 @@
 
 ### Some more commands
 
-* Use [pip freeze](https://pip.pypa.io/en/stable/cli/pip_freeze/) to generate requirements.txt
+* Use [pipreqs](https://softhints.com/auto-generate-requirements-txt-dependencies-python/) to generate requirements.txt
 
 * [Git Large File Storage](https://git-lfs.com/) has been used to upload model.h5
 
